@@ -1,4 +1,6 @@
-### Hi there 👋
+### 안녕하세요
+
+저에대해서 소개하겠습니다.
 
 <!--
 **mimgggg4444/mimgggg4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
