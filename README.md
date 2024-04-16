@@ -1,12 +1,5 @@
 ### 안녕하세요
 
-저를 소개합니다.
-[ 노션 링크 ]
-
-저의 프로젝트 소개
-[ 핵심 프로젝트 링크 모음 ]
-
-
 <!--
 **mimgggg4444/mimgggg4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
