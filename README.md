@@ -2,7 +2,7 @@
 
 - 불편함을 개선하고자 하는 열정으로 코딩이라는 도구를 활용해 꾸준히 노력하는 개발자입니다. 
 
--성실함을 제일 중요한 역량으로 생각하며, 이를 바탕으로 맡은 바 임무를 책임감 있게 완수하고자 노력하겠습니다. 
+- 성실함을 제일 중요한 역량으로 생각하며, 이를 바탕으로 맡은 바 임무를 책임감 있게 완수하고자 노력하겠습니다. 
 
 <!--
 **mimgggg4444/mimgggg4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
