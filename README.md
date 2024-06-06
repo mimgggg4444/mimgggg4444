@@ -1,8 +1,5 @@
-### 김민기 소개글
+### 
 
-- 불편함을 개선하고자 하는 방법으로서 코딩이라는 도구를 활용하는 개발자
-
-- 성실함을 제일 중요한 역량으로 생각하며, 이를 바탕으로 맡은 바 임무를 책임감 있게 완수하고자 노력하는 개발자
 
 <!--
 **mimgggg4444/mimgggg4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
