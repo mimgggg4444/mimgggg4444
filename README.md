@@ -14,7 +14,7 @@ https://github.com/minki11009-hue/SSSS
 
 https://mimgggg4444.github.io/excel-to-object-main/
 
-[https://github.com/mimgggg4444/home-iot-front-end](https://github.com/mimgggg4444/smart-cctv)
+https://github.com/mimgggg4444/smart-cctv
 
 <!--
 **mimgggg4444/mimgggg4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
